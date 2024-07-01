@@ -1,0 +1,128 @@
+.d{
+    margin-top: 100px;
+    display: flex;
+    .btn_click{
+        position: absolute;
+        margin-left: 280px;
+        border-radius: 50px;
+        border: none;
+        background-color: #81D066;
+        width: 91.952px;
+        height: 91.952px;
+        margin-top: 150px;
+    }
+    .view_text{
+        margin-top: 200px;
+        margin-left: -90px;
+        width: 514.775px;
+height: 284.22px;
+transform: rotate(-90deg);
+flex-shrink: 0;
+color: #E5F2E1;
+text-align: center;
+font-family: Raleway;
+font-size: 218.216px;
+font-style: normal;
+font-weight: 700;
+line-height: 130%; /* 283.681px */
+    }
+    .div_text{
+        position: relative;
+        margin-left: -200px;
+        width: 618.524px;
+height: 529.838px;
+flex-shrink: 0;
+border-radius: 10px;
+background: #F6FFF3;
+padding: 50px;
+    }
+    .about_text{
+        width: 362px;
+        height: 111.023px;
+        flex-shrink: 0;
+        color: #051101;
+        font-family: Raleway;
+        font-size: 44px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 130%; 
+    }
+    .smal_text{
+        width: 271.359px;
+height: 69.117px;
+flex-shrink: 0;
+color: #051101;
+
+font-family: Raleway;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; 
+    }
+    .cont_first{
+        margin-left: -200px;
+        margin-top: 100px;
+        position: relative;
+    width: 607.972px;
+    height: 433.343px;
+    flex-shrink: 0;
+    .cont_second{
+        width: 607.972px;
+        height: 433.343px;
+        flex-shrink: 0;
+        .video_rasm{
+            left: 765.36px;
+            top: 1763.44px;
+            width: 607.972px;
+            height: 433.343px;
+            flex-shrink: 0;
+        }
+        
+    }
+    }
+}
+.h1_text{
+    margin-top: -400px;
+    width: 476px;
+    color: #051101;
+    font-family: Raleway;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%; 
+    position: relative;
+}
+.p_smal_text{
+    width: 392px;
+height: 45.351px;
+flex-shrink: 0;
+color: #051101;
+
+/* Body / Base */
+font-family: Raleway;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%;
+}
+.texts{
+    padding-left: 80px;
+}
+.people_cont{
+    display:flex;
+    gap: 30px;
+    margin-top: 100px;
+    .rasm_cont{
+        .Kachok_div{
+            margin-left: 80px;
+            width: 636.845px;
+            height: 568.779px;
+            border: 15px solid rgb(222, 222, 222);
+            border-radius:8px;
+            .Kachok_img{
+                padding-left: 30px;
+                padding-top: 20px;
+            }
+        }
+    }
+}

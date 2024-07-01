@@ -1,0 +1,114 @@
+.cont{
+    .title_text{
+        margin-top: 100px;
+        width: 398px;
+        height: 44.317px;
+        flex-shrink: 0;
+        color: #000;
+        text-align: center;
+        font-family: Raleway;
+        font-size: 44px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 130%; 
+    }
+    .p_text{
+        width: 469.192px;
+        height: 45.351px;
+        flex-shrink: 0;
+        color: #051101;
+        text-align: center;
+        font-family: Raleway;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 150%; 
+    }
+    .imges{
+        display: flex;
+        gap: 50px;
+        margin-left: 300px;
+        .div_img{
+            .text_p{
+                color: #000;
+                text-align: center;
+                font-family: Raleway;
+                font-size: 22px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 140%;
+            }
+            .price_p{
+                color: #000;
+                text-align: center;
+                font-family: Raleway;
+                font-size: 24px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: 130%;
+            }
+            button{
+                display: inline-flex;
+                padding: 15px 30px;
+                justify-content: center;
+                align-items: center;
+                gap: 10px;
+                border-radius: 4px;
+                border: 1px solid rgba(92, 190, 58, 0.30);
+                color: #5CBE3A;
+                text-align: center;
+                font-family: Raleway;
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: normal;
+                text-transform: uppercase;
+            }
+        }
+        .first_img{
+            width: 262px;
+            height: 262px;
+            flex-shrink: 0;
+            border-radius: 362px;
+            border: 1px solid #5CBE3A;
+            background: linear-gradient(0deg, #5CBE3A -33.55%, rgba(92, 190, 58, 0.09) 4.82%, rgba(92, 190, 58, 0.00) 37.59%);
+            .IMG{
+                position: relative;
+                width: 200.67px;
+                margin-top: 75px;
+                height: 120.186px;
+                flex-shrink: 0;
+            }
+        }
+        .second_img{
+            width: 262px;
+            height: 262px;
+            flex-shrink: 0;
+            border-radius: 362px;
+            border: 1px solid #5CBE3A;
+            background-image: url(../Images/oq_krasovka.png) ;
+            .IMG{
+                position: relative;
+                width: 220.67px;
+                margin-top: 75px;
+                height: 100.186px;
+                flex-shrink: 0;
+            }
+        }
+        .third_img{
+            width: 262px;
+            height: 262px;
+            flex-shrink: 0;
+            border-radius: 362px;
+            border: 1px solid #5CBE3A;
+            background-image:url(../Images/seriy_krasovka.png) ;
+            .IMG{
+                position: relative;
+                width: 215.67px;
+                margin-top: 75px;
+                height: 100.186px;
+                flex-shrink: 0;
+            }
+        }
+    }
+}
